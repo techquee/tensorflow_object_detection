@@ -1,3 +1,3 @@
 # tensorflow_object_detection
 
-![Image](./Screenshot (11).png)
+![Image](tensorflow_object_detection/Screenshot (11).png)
